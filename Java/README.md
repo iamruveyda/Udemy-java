@@ -1,6 +1,6 @@
 # JAVA
 
-| #  | Folders Names                                                   |
+| #  | Folders                                                         |
 |----|-----------------------------------------------------------------|
 | 01 | Kursa Giriş                                                     |
 | 02 | Java Hakkında Bilgiler , Gerekli Ortamların Kurulması ve Slack  |
